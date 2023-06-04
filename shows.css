@@ -1,0 +1,107 @@
+body {
+
+    width: 100%;
+  }
+  .custom-bg {
+    background-color: #F0DBD3;
+  }
+  
+  .banSvg {
+    display: flex;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .banner {
+    display: flex;
+    border: 0px solid blue;
+    background-color: none;
+    width: 100%;
+    margin: 0;
+  }
+  
+  .puppetnav {
+     background-color: #A9D0D6;
+     margin: 0px;
+     padding: 0px;
+     height: 3rem;
+  }
+  .cell {
+    border: solid red 0px;
+    height: auto;
+  }
+  
+  .dark {
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+    font-size: 0.75rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  
+  .wel {
+    border: 1px solid blue;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+  }
+  
+  .navbar-brand {
+    font-family: Darumadrop One;
+    font-size: 5rem;
+  }
+  
+  h2 {
+    font-family: Darumadrop One;
+  
+  }
+  
+  .card {
+    margin-bottom: 1rem;
+  }
+  footer {
+    background-color: #FFD6E1;
+  }
+  
+  .footzy {
+    border: 0px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+  }
+  
+  .footer {
+    border: 0px solid black;
+    padding: 0rem;
+  }
+  
+  .leftFoot {
+    display: flex;
+    flex-direction: column;
+    border: 0px solid black;
+    width: 50%;
+    transform: translateX(-25px);
+  }
+  .rightFoot {
+    display: flex;
+    flex-direction: column;
+    border: 0px solid black;
+    width: 50%;
+    transform: translateX(-25px);
+  }
+  .feet {
+    border: 0px solid green;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  li{
+    border: 0px solid black;
+    width: 100%;
+    font-size: .8rem;
+  }
+  
