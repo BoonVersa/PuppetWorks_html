@@ -27,7 +27,7 @@ body {
      height: 3rem;
   }
   .cell {
-    border: solid red 2px;
+    border: solid red 0px;
     height: auto;
   }
   
@@ -41,7 +41,7 @@ body {
   }
   
   .wel {
-    border: 1px solid blue;
+    border: 0px solid blue;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -67,7 +67,7 @@ body {
   }
   
   .footzy {
-    border: 1px solid black;
+    border: 0px solid black;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -76,32 +76,32 @@ body {
   }
   
   .footer {
-    border: 1px solid black;
+    border: 0px solid black;
     padding: 0rem;
   }
   
   .leftFoot {
     display: flex;
     flex-direction: column;
-    border: 1px solid black;
+    border: 0px solid black;
     width: 50%;
     transform: translateX(-25px);
   }
   .rightFoot {
     display: flex;
     flex-direction: column;
-    border: 1px solid black;
+    border: 0px solid black;
     width: 50%;
     transform: translateX(-25px);
   }
   .feet {
-    border: 2px solid green;
+    border: 0px solid green;
     display: flex;
     flex-direction: row;
     width: 100%;
   }
   li{
-    border: 1px solid black;
+    border: 0px solid black;
     width: 100%;
     font-size: .8rem;
   }
