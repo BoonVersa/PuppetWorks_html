@@ -1,0 +1,1 @@
+gsap.set(".curt", { height: 100,});
